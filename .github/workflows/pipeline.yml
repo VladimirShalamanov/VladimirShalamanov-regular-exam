@@ -19,6 +19,8 @@ jobs:
         cache: 'npm'
     - name: Install NPM dependencies
       run: npm i
+    - name: Install NPX playwright Browsers
+      run: npx playwright install
     - name: Run the init tests
       run: npm run test:unit
     - name: Show my SoftUni username
