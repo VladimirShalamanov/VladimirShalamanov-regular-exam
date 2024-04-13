@@ -1,0 +1,1 @@
+[![Build-Test-Deploy Cookbook App](https://github.com/VladimirShalamanov/VladimirShalamanov-regular-exam/actions/workflows/pipeline.yml/badge.svg)](https://github.com/VladimirShalamanov/VladimirShalamanov-regular-exam/actions/workflows/pipeline.yml)
